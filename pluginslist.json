@@ -8,13 +8,13 @@
         "Changelog": "",
         "InternalName": "Search",
         "AssemblyVersion": "1.0",
-        "RepoUrl": "https://github.com/Quantity4/Search",
+        "RepoUrl": "https://github.com/Quantity4/xiv-plugins-search",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "utility"
         ],
         "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/Quantity4/XIV-plugin-repo/master/plugins/Search/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Quantity4/xiv-plugins-repo/master/plugins/Search/icon.png",
         "ImageUrls": [
             ""
         ],

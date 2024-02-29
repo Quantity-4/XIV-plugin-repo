@@ -5,7 +5,7 @@
     "AssemblyVersion": "1.0",
     "Description": "[Server] Enables displaying/finding players in real-time on an interactive map",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Quantity4/Search",
+    "RepoUrl": "https://github.com/Quantity4/xiv-plugins-search",
     "CategoryTags": [
         "utility"
     ],
@@ -16,7 +16,7 @@
     "ImageUrls": [
         ""
     ],
-    "IconUrl": "https://raw.githubusercontent.com/Quantity4/XIV-plugin-repo/master/plugins/Search/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Quantity4/xiv-plugins-repo/master/plugins/Search/icon.png",
     "Punchline": "Experimental realtime player updates",
     "Changelog": "",
     "AcceptsFeedback": false
