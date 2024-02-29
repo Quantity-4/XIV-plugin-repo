@@ -1,0 +1,31 @@
+[
+    
+    {
+        "Author": "Quantity4",
+        "Name": "Search",
+        "Punchline": "Experimental realtime player updates",
+        "Description": "[Server] Enables displaying/finding players in real-time on an interactive map",
+        "Changelog": "",
+        "InternalName": "Search",
+        "AssemblyVersion": "1.0",
+        "RepoUrl": "https://github.com/Quantity4/Search",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/Quantity4/XIV-plugin-repo/master/plugins/Search/icon.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "",
+        "DownloadLinkUpdate": "",
+        "DownloadCount": 0,
+        "LastUpdate": 1709229094
+    }
+    
+    
+]
