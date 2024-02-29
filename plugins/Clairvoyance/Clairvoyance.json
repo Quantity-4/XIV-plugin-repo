@@ -1,11 +1,11 @@
 {
     "Author": "Quantity4",
-    "Name": "Search",
-    "InternalName": "Search",
+    "Name": "Clairvoyance",
+    "InternalName": "Clairvoyance",
     "AssemblyVersion": "1.0",
     "Description": "[Server] Enables displaying/finding players in real-time on an interactive map",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Quantity4/xiv-plugins-search",
+    "RepoUrl": "https://github.com/Quantity4/xiv-plugins-clairvoyance",
     "CategoryTags": [
         "utility"
     ],
@@ -16,7 +16,7 @@
     "ImageUrls": [
         ""
     ],
-    "IconUrl": "https://raw.githubusercontent.com/Quantity4/xiv-plugins-repo/master/plugins/Search/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Quantity4/xiv-plugins-repo/master/plugins/Clairvoyance/icon.png",
     "Punchline": "Experimental realtime player updates",
     "Changelog": "",
     "AcceptsFeedback": false
